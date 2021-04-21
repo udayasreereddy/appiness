@@ -1,0 +1,473 @@
+
+@font-face {
+  font-family: 'StagSans';
+  src: url(../fonts/StagSans-Regular.woff);
+}
+
+@font-face {
+  font-family: 'Titillium';
+  src: url(../fonts/Titillium-Regular.woff);
+}
+.headerBg {
+  background-image: url(../images/bgnew.png); 
+}
+.aster-logo-white {
+  width: 239px;
+  height: 239px;
+}
+.adult-paediatric-b {
+  color: #FFFFFF;
+  font-family: Titillium;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  text-align: left;
+  margin-top: 40px;
+}
+.haematology-oncolo {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 25px;
+  letter-spacing: 3.59px;
+  line-height: 34px;
+  text-align: left;
+}
+.rectangle {
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+  width: 339px;
+  height: 492px;
+  margin-top: 19px; 
+  margin-bottom: 24px;
+}
+.enquire-now {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 20.08px;
+  line-height: 24px;
+  text-align: left;
+  padding-top: 22px;
+    padding-left: 17px;
+}
+.book-an-appoinment {
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 14.4px;
+  line-height: 17px;
+  text-align: left;
+  background-color: #DD5A6A;
+  border-radius: 3.2px;
+  width: 186px;
+  height: 45px;
+}
+.logo-wt{
+  margin-top: 26px;
+}
+.headerLeft{
+  padding-left: 164px;
+}
+.formInput {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
+  margin-left: 32px;
+    margin-bottom: 12px;
+}
+.rectangle-copy-4 {
+  background-color: #DD5A6A;
+  width: 111px;
+  height: 44px;
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14.84px;
+  line-height: 18px;
+  text-align: center;
+  margin-left: 31px;
+  margin-top: 16px;
+}
+.boneImage img{
+  width:100%;
+}
+.boneBox{
+  margin-top: 30px;
+}
+.bone-marrow-transpla {
+  background-image: radial-gradient(#2EC4B8 0%, #6078EA 100%);
+    border-radius: 4px;
+    /* width: 586px; */
+    /* height: 95px; */
+    color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 18px;
+    line-height: 26px;
+    /* width: auto; */
+    text-align: left;
+    padding: 12px;
+    margin-top: 18px;
+}
+.replacement-medicines-common {
+  padding: 31px 0px;
+  color: #000000;
+  font-family: StagSans;
+  font-size: 17px;
+  line-height: 20px;
+  text-align: left;
+  border-bottom: 1px solid #ECECFF;
+}
+.doctorHeader{
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  margin-top: 21px;
+  margin-bottom: 20px;
+}
+}
+.what-are-the-types-o{
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+.hospitalImageone{
+  width: 16px;
+  height: 16px;
+  margin-left: 55px;
+    /* margin-bottom: 43px; */
+    margin-top: 8px;
+}
+.hospitalImagetwo{
+  width: 16px;
+  height: 16px;
+  margin-left: 55px;
+    /* margin-bottom: 46px; */
+    margin-top: 38px;
+}
+.hospitalImagethree{
+  width: 16px;
+  height: 16px;
+  margin-left: 55px;
+    /* margin-bottom: 46px; */
+    margin-top: 38px;
+}
+.hospitalImagefour{
+  width: 16px;
+  height: 16px;
+  margin-left: 55px;
+    /* margin-bottom: 46px; */
+    margin-top: 58px;
+}
+.hospitalImagefive{
+  width: 16px;
+  height: 16px;
+  margin-left: 55px;
+    /* margin-bottom: 46px; */
+    margin-top: 26px;
+}
+.autologous-bone-marr{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 39px;
+  width: 979px;
+  text-align: left;
+  margin-left: 10px;
+}
+.the-warning-signs-of{
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+.rectangletwo{
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+}
+.rectangletwo .imgone ,.imgfour,.imgfive,.imgsix,.imgnine,.imgten{
+  width: 30px;
+  height: 41px;
+  margin-left: 16px;
+    padding: 28px;
+}
+.rectangletwo .imgfour{
+  margin-top: 2px;
+    /* padding-top: 2px; */
+    padding-bottom: 2px;
+}
+.rectangletwo .imgfive{
+  margin-top: 2px;
+    /* padding-top: 2px; */
+    /* padding-bottom: 2px; */
+  
+}
+.rectangletwo .imgsix{
+  margin-top: 2px;
+    /* padding-top: 2px; */
+    padding-bottom: 2px;
+}
+.rectangletwo .imgnine{
+  margin-top: 2px;
+    /* padding-top: 2px; */
+    padding-bottom: 2px;
+}
+.rectangletwo .imgten{
+  margin-top: 2px;
+    /* padding-top: 2px; */
+    padding-bottom: 2px;
+  
+}
+.rectangletwo .failure-to-thrive{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left: 34px;
+  margin-top: 32px;
+}
+
+.rectangletwodivetwo,.rectangletwodivefive,.rectangletwodiveeight,.rectangletwodiveten,.rectangletwodivethree,.rectangletwodivesix{
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+  margin-top: 25px;
+}
+.rectangletwodivetwo .imgone,.rectangletwodivethree .imgone,.rectangletwodiveten .imgone,.rectangletwodivefive .imgone,.rectangletwodivesix .imgone,.rectangletwodiveeight .imgone{
+  width: 30px;
+  height: 41px;
+  margin-left: 16px;
+    padding: 28px;
+}
+.rectangletwodivetwo .failure-to-thrive,.rectangletwodivethree .failure-to-thrive,.rectangletwodivefive .failure-to-thrive,.rectangletwodivesix .failure-to-thrive,.rectangletwodiveeight .failure-to-thrive,.rectangletwodiveten .failure-to-thrive{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 21px;
+  width: 198px;
+  text-align: left;
+  margin-left: 34px;
+  margin-top: 32px;
+}
+.totaldive,#headingTwo2{
+  border:none;
+  background-color: #fff;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+}
+#headingOne1,headingTwo2  ,#headingthree{
+  
+  background-color: #fff;
+}
+.what-are-the-conditi{
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  /* width: 797px; */
+  text-align: left;
+}
+.iconstyle{
+  margin-left: 100px;
+  font-size: 29px;
+}
+.iconstyletwo{
+  margin-left: 100px;
+  font-size: 29px;
+  padding-left: 1px;
+}
+.do-bone-marrow-failu{
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 994px;
+  text-align: left;
+}
+.cardtext{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  width: 1052px;
+  text-align: left;
+}
+.cardContainer .card{
+  border: 0;
+}
+.ardContainer .img-responsive{
+width: 256px;
+height: 161px;
+}
+.doctorDepartment {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+
+}
+.doctorName {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+  margin-top: 25px;
+}
+.doctorInfo {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  /* line-height: 3px; */
+  text-align: center;
+  margin-top: 19px;
+}
+.doctorExperienceInfo {
+  color: #000000;
+    font-family: StagSans;
+    font-size: 15px;
+    line-height: 20px;
+    /* width: 423px; */
+    text-align: center;
+    margin-top: 23px;
+}
+.doctorMoreInfo {
+  background-image: radial-gradient( #17EAD9 0%, #6078EA 100%);
+    border-radius: 4px;
+    width: 129px;
+    color: #FFFFFF;
+    font-family: StagSans;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 18px;
+    margin: auto;
+    padding: 10px 0px;
+    margin-top: 16px;
+}
+.testimonials{
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+.it-is-a-long-establi{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 609px;
+  text-align: left;
+}
+.rectanglethree{
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  width: 517px;
+  height: 249px;
+}
+.john-doe{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  /* line-height: 26px; */
+  text-align: left;
+  margin-top: 69px;
+    /* margin-left: 42px; */
+}
+.softwere-engineer{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  /* line-height: 17px; */
+  text-align: left;
+  margin-top: 9px;
+    /* margin-left: 50px; */
+}
+.it-is-a-long-establitwo{
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+  width: 410px;
+  text-align: left;
+  margin-left: 58px;
+}
+.softwereimg{
+  margin-left: 41px;
+    padding: 45px;
+}
+.john{
+  line-height: 10px;
+}
+.rectanglefour{
+  background-color: #004498;
+  border-radius: 3.81px;
+  width: 221px;
+  height: 54px;
+  margin: auto;
+    margin-top: 30px;
+}
+.book-an-appoinmenttwo{
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  text-align: left;
+  text-align: center;
+  background: none;
+  margin-top: 17px;
+  /* margin: auto; */
+  margin-left: 11px;
+}
+.footer{
+  background-color: #272727;
+  width: 1440px;
+  height: 256px;
+  margin-top: 27px;
+}
+.footimg{
+  width: 25px;
+  height: 25px;
+}
+.TestimonialsRow{
+  overflow: hidden;
+}
+.footer .row img{
+    margin-top: 45px;
+    margin-right: 8px;
+}
+.footer .copyRights {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14px;
+  letter-spacing: 1.12px;
+  line-height: 17px;
+  margin-top: 35px;
+}
+.footer .footerLine{
+  border: 1px solid rgba(255, 255, 255, 0.21);
+    opacity: 0.3701869419642857;
+    /* width: 500px; */
+    height: 2px;
+    margin-top: 39px;
+}
